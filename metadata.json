@@ -1,0 +1,5 @@
+{
+  "name": "DataForSEO AI Explorer",
+  "description": "A React tool to extract Fan Out Queries and Brand Entities using the DataForSEO ChatGPT LLM Scraper API.",
+  "requestFramePermissions": []
+}
